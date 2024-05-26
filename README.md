@@ -1,1 +1,1 @@
-# loan
+The dataset is about a loan given to individuals of diffrent genders, educational qualification, race etc, so we try to know the grop of people that their loans where approved the most, ranking from occupation,educational level, gender .
